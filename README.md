@@ -28,6 +28,8 @@ models and dataset too big so they get compressed
 of course u can train ur own model  
 dataset need to be merged by .py  
 
+---------------------------
+
 ## 中文版
 
 ### 三个文件夹
